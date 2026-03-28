@@ -1,0 +1,8 @@
+{
+  "name": "Mood Sync",
+  "description": "Change Spotify experience based on your mood - auto-detects time of day and recommends playlists",
+  "version": "1.0.0",
+  "manifest": "2",
+  "authors": ["You"],
+  "preview": "https://raw.githubusercontent.com/spicetify/spicetify-creator/main/mood-sync/preview.png"
+}
